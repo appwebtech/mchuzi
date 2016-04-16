@@ -2,15 +2,17 @@
  
 <div class="row">
     <div class="col-md-4 pull-right center">
-        <%= gravatar_for @recipe.chef, size: 200%>
+        <%= link_to gravatar_for(@recipe.chef, size: 200), chef_path(@recipe.chef) %>
         <p>
             <h5>Brought to you by: <%= @recipe.chef.chefname %></h5>
         </p>
     </div>
-    <div class="col-md-8">
+    
+   
         
         
 <!--Link below will link the buttons bellow the jumbotron-->
+ <div class="col-md-8">
         <%= link_to "Edit this Recipe", edit_recipe_path(@recipe), class: "btn btn-success pull-right"%>
         <h3><%= @recipe.summary %></h3>
         <!--show summary and image on recipe. -->
@@ -19,10 +21,21 @@
             <%= image_tag(@recipe.picture.url, class: "gravatar") if @recipe.picture? %>
         </div>
         <div class="well">
-            <p><strong>Steps:</strong></p>
+            <p><strong>Ingredients and Steps:</strong></p>
             <%= simple_format(@recipe.description) %>
-        </div>
-    </div>
+            
+            <!--Add styling for like-->
+            <div class="pull-right">
+                <%= link_to like_recipe_path(@recipe, like: true), method: :post do %>
+                <i class="glyphicon glyphicon-thumbs-up"></i> &nbsp <%= @recipe.thumbs_up_total %>
+                <% end  %> &nbsp&nbsp&nbsp&nbsp
+                
+                <%= link_to like_recipe_path(@recipe, like: false), method: :post do %>
+                <i class="glyphicon glyphicon-thumbs-down"></i> &nbsp <%= @recipe.thumbs_down_total%>
+                <% end  %>
+                 </div>
+        </div>   
+    </div> 
     
 </div>
 
