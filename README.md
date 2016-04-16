@@ -1,7 +1,7 @@
 
 ![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14581464/5ac2cb4c-03ee-11e6-929a-6651cf86688e.png)
 
-## Welcome to a Ruby on Rails project by theappwebtech!
+## Welcome to a Ruby on Rails project by the appwebtech!
 
 I built this generic app just to show how a developer can utilise his full webstack creativity
 in an ALL IN ONE environment using Ruby on Rails. 
@@ -57,4 +57,6 @@ https://twitter.com/appwebtech
 
 https://www.facebook.com/theappwebtech
 
-Coded and deployed to Heroku by Joseph Mwania, for theappwebtech team.
+###Coding and deploying to Amazon Web Services and Heroku
+
+Joseph Mwania, for the appwebtech team.
