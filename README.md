@@ -1,17 +1,6 @@
-                                                                                              
-                                                    ,,                              ,,        
-                                                   *MM        mm                  `7MM        
-                                                    MM        MM                    MM        
- ,6"Yb. `7MMpdMAo`7MMpdMAo`7M'    ,A    `MF'.gP"Ya  MM,dMMb.mmMMmm .gP"Ya   ,p6"bo  MMpMMMb.  
-8)   MM   MM   `Wb MM   `Wb VA   ,VAA   ,V ,M'   Yb MM    `Mb MM  ,M'   Yb 6M'  OO  MM    MM  
- ,pm9MM   MM    M8 MM    M8  VA ,V  VA ,V  8M"""""" MM     M8 MM  8M"""""" 8M       MM    MM  
-8M   MM   MM   ,AP MM   ,AP   VVV    VVV   YM.    , MM.   ,M9 MM  YM.    , YM.    , MM    MM  
-`Moo9^Yo. MMbmmd'  MMbmmd'     W      W     `Mbmmd' P^YbmdP'  `Mbmo`Mbmmd'  YMbmd'.JMML  JMML.
-          MM       MM                                                                         
-        .JMML.   .JMML.                                                                       
-        
 
-Welcome to a Ruby on Rails project by theappwebtech!
+
+## Welcome to a Ruby on Rails project by theappwebtech!
 
 I built this generic app just to show how a developer can utilise his full webstack creativity
 in an ALL IN ONE environment using Ruby on Rails. 
@@ -27,15 +16,15 @@ There are no downloadable files for Bootstrap in Rails or a CMS script to link o
 - Had that embedded in my work environment in C9 and was good to go.
 - jQuery scripting works great in C9 and no need to code locally running Apache or Gulp with SQL.
 
-Gem file for postgresql available and thus easy to deploy to Heroku which doesn't support a full stack of SQL-Lite
+Gem file for postgresql are available and thus easy to deploy to Heroku which doesn't support a full stack of SQL-Lite
 
 In Summary, the Technologies employed on this project are the following:
 
-Ruby on Rails
-HTML5
-CSS3
-Bootstrap
-jQuery
+- Ruby on Rails
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
 
 
 
