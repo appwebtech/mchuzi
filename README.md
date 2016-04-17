@@ -5,6 +5,13 @@
 
 I built this generic app just to show how a developer can utilise his full webstack creativity
 in an ALL IN ONE environment using Ruby on Rails. 
+
+Rails is a web-application framework that includes everything needed to
+create database-backed web applications according to the
+[Model-View-Controller (MVC)](http://en.wikipedia.org/wiki/Model-view-controller)
+pattern.
+In Rails, database-backed model classes are derived from
+`ActiveRecord::Base`.
 This technology is very versatile and thus wouldn't require someone to hire separately a Front-end and a Back-end developer for the 
 same job.
 
