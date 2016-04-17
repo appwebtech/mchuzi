@@ -3,7 +3,7 @@
 
 ## Welcome to a Ruby on Rails project by the appwebtech!
 
-I built this generic app just to show how a developer can utilise his full webstack creativity
+I build this generic app just to show how a developer can utilise his full webstack creativity
 in an ALL IN ONE environment using Ruby on Rails. 
 
 Rails is a web-application framework that includes everything needed to
@@ -15,7 +15,7 @@ In Rails, database-backed model classes are derived from
 This technology is very versatile and thus wouldn't require someone to hire separately a Front-end and a Back-end developer for the 
 same job.
 
-It's important however to note that even though the skeleton of the page is on rails, the styling is done with CSS3.
+It's important however to note that even though the skeleton of the project is on rails, the styling is done with CSS3.
 HTML5 has been used a lot in the index page and in order to render the styling like buttons, etc, Bootstrap has been used. 
 
 There are no downloadable files for Bootstrap in Rails or a CMS script to link online. What I did is;
@@ -35,9 +35,9 @@ In Summary, the Technologies employed on this project are the following:
 - jQuery
 
 
-
+###### If on C9;
 1. Run the project with the "Run Project" button in the menu bar on top of the IDE if on C9.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://threshing-josembi.c9users.io/).
+2. Preview your new app by clicking on the URL that appears in the Run panel.
 
 You can test this code on many environments: The code for this project was purely done online in cloud 9 at 
 this url. https://ide.c9.io!
