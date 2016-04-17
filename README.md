@@ -48,7 +48,16 @@ Apart from the rails projects, all others can be viewed through the browser afte
 
 Have fun reviewing our projects.
 
+##### A few coding Snap shots
+![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14586140/f5d4db0c-048e-11e6-94c5-78420ef15358.png)
 
+![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14586142/fb42b690-048e-11e6-983d-e5dd703cf69e.png)
+
+![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14586144/006dabca-048f-11e6-9a71-3acd9970f052.png)
+
+![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14586145/04e83364-048f-11e6-967a-ebf6081314e5.png)
+
+![appwebtech](https://cloud.githubusercontent.com/assets/13242902/14586146/08846a74-048f-11e6-99f7-ca312059e0e5.png)
 
 
 
