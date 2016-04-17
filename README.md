@@ -64,6 +64,6 @@ https://twitter.com/appwebtech
 
 https://www.facebook.com/theappwebtech
 
-###Coding and deploying to Amazon Web Services and Heroku
+######Coding and deploying to Amazon Web Services and Heroku done by
 
 Joseph Mwania, for the appwebtech team.
