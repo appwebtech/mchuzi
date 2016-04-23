@@ -36,13 +36,14 @@ In Summary, the Technologies employed on this project are the following:
 
 
 ###### If on C9;
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE if on C9.
+1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
 2. Preview your new app by clicking on the URL that appears in the Run panel.
 
-You can test this code on many environments: The code for this project was purely done online in cloud 9 at 
-this url. https://ide.c9.io!
+###### Else;
 
-Other projects on my Github page were done with sublime text and were run through a local server, using Apache or Gulp. 
+You can open this app with any of the best text-editors like Sublime, Brackets, Atom, Wrangler or Notepad++ (only windows) and run it. 
+
+Other projects on my Github page were done with sublime text and were uploaded in Git via Bash command prompt. In many instances I code locally rather than using a *cloud* platform because I want to have a total interactability with the project I'm creating and want to test from the clients/users perspective; thus, I test UX using assisted technologies and UX & UI in the main browsers available in our lovely planet through a local server, using **Apache or Gulp**. 
 
 Apart from the rails projects, all others can be viewed through the browser after downloading and running index.html.
 
